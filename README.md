@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <div name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Tiduray Culture</title>
 
@@ -288,10 +287,9 @@
 
             <h2>Welcome!</h2>
 
-            <p>
-                The Tiduray, also known as Teduray or Tiruray,
-                are an Indigenous people traditionally associated
-                with areas of Mindanao in the Philippines.
+            <p style="font-size:150%;">
+             The Tiduray, also known as Teduray or Tiruray, are one of the Indigenous peoples of Mindanao in the Philippines. Their communities are traditionally associated with areas of Maguindanao and nearby parts of Central Mindanao.
+The Tiduray have a rich cultural heritage expressed through their language, traditional knowledge, clothing, crafts, music, stories, and relationship with nature.
             </p>
 
            
