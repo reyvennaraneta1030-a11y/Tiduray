@@ -294,12 +294,7 @@
                 with areas of Mindanao in the Philippines.
             </p>
 
-            <br>
-
-            <p>
-                Click one of the topics above to learn more about
-                their culture, traditions, beliefs, and interesting facts.
-            </p>
+           
 
         </div>
 
@@ -316,7 +311,7 @@
             ×
         </button>
 
-        <h2>🌿 Tiduray Culture</h2>
+        <h2> Tiduray Culture</h2>
 
         <p>
             Tiduray culture includes traditional knowledge,
@@ -439,7 +434,7 @@
             ×
         </button>
 
-        <h2>🌳 Tiduray Beliefs</h2>
+        <h2> Tiduray Beliefs</h2>
 
         <p>
             Traditional Tiduray beliefs have included a
@@ -497,7 +492,7 @@
             ×
         </button>
 
-        <h2>✨ Fun Facts About the Tiduray</h2>
+        <h2> Fun Facts About the Tiduray</h2>
 
         <div class="cards">
 
