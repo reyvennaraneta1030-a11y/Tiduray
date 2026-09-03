@@ -1,3 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In Page</title>
+    <!-- Link to external styling file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="login-container">
+        <h2>Sign In</h2>
+        
+        <!-- The form action points to your backend script processing the data -->
+        <form action="/login-endpoint" method="POST">
+            
+            <!-- Email Input Field -->
+            <div class="input-group">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email" placeholder="Enter your email" required>
+            </div>
+            
+            <!-- Password Input Field -->
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" placeholder="Enter your password" required>
+            </div>
+            
+            <!-- Forgot Password link -->
+            <div class="form-actions">
+             <a href="forgot-password.html">Forgot Password?</a>
+            </div>
+            
+            <!-- Submit Button -->
+            <button type="submit" class="submit-btn">Sign In</button>
+            
+            <!-- Sign Up redirect -->
+            <p class="signup-link">Don't have an account? <a href="signup.html">Register here</a></p>
+        </form>
+          </div>
+
 
 <html lang="en">
 <head>
@@ -607,6 +649,10 @@ The Tiduray have a rich cultural heritage expressed through their language, trad
         });
 
     </script>
+
+</body>
+</html>
+
 
 </body>
 </html>
